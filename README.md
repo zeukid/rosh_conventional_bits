@@ -13,3 +13,5 @@ Links:
 RSA Encryption: https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
 
 IBM Quantum Computing: https://quantum-computing.ibm.com/
+
+Shor's Algorithm: https://en.wikipedia.org/wiki/Shor%27s_algorithm
